@@ -1,5 +1,5 @@
 ## Introduction
-
+This is the Pytorch implementation of our paper:`A Utility-Adjustable Reverse Auction Mechanism for UAV Data Collection Task Allocation` .
 
 ## Requirements
 
